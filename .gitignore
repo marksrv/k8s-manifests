@@ -1,0 +1,12 @@
+# Helm
+charts/*/charts/
+charts/*/tmpcharts/
+
+# Secrets
+*.pem
+*.key
+.env
+*-secret.yaml
+
+# OS
+.DS_Store
